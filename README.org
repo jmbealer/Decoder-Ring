@@ -8,7 +8,7 @@
 
 [[file:img/decoderRingHome.png]]
 
-* The project permise:
+* The project premise:
 
 You're planning a surprise birthday party for a friend who loves escape rooms
 and puzzles. What better way to practice your new coding skills than to build an
